@@ -17,7 +17,7 @@ This repository includes:
 - training a U-Net segmentation model
 - generating predicted masks
 - evaluating segmentation performance
-- saving the final trained model as `.hdf5`
+
 
 ## Why U-Net for Food Segmentation
 
