@@ -3,7 +3,7 @@
 
 This project explores the use of **U-Net**, a deep learning architecture most commonly used in **medical image segmentation**, in a different domain: **food image segmentation**.
 
-U-Net is widely known in the medical field for tasks such as tumor segmentation, organ boundary detection, and tissue identification because it performs well at **pixel-level classification**. This project applies that same idea to food images, where the goal is to identify **where each food item appears in the image**, not just whether it is present. The presentation and code show this project using a reduced 10-class setup for food segmentation. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+U-Net is widely known in the medical field for tasks such as tumor segmentation, organ boundary detection, and tissue identification because it performs well at **pixel-level classification**. This project applies that same idea to food images, where the goal is to identify **where each food item appears in the image**, not just whether it is present. The presentation and code show this project using a reduced 10-class setup for food segmentation
 
 ## Project Overview
 
