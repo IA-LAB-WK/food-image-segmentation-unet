@@ -95,9 +95,6 @@ food-image-segmentation-unet/
 │   ├── predict.py
 │   ├── evaluate.py
 │   └── utils.py
-├── outputs/
-│   ├── sample_predictions/
-│   └── figures/
-├── presentation/
+├── quick_visual/
 │   └── Presentation_showofmodel-2.pptx
-└── implementation.py
+└── full_implementation.py
