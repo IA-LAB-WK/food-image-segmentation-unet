@@ -42,7 +42,7 @@ The presentation focuses on the reduced **10-class version** of the project:
 - Tomato = pixel 8
 - Egg = pixel 9
 
-These mappings are shown directly in the project presentation. :contentReference[oaicite:4]{index=4}
+These mappings are shown directly in the project presentation.
 
 ## Model Architecture
 
@@ -57,7 +57,7 @@ These mappings are shown directly in the project presentation. :contentReference
 - **Epochs:** 50
 - **Batch size:** 8
 
-The implementation file shows the 10-class training pipeline and saving the trained model as `vgg_backbone_10_classes_50epochs.hdf5`. :contentReference[oaicite:5]{index=5}
+The implementation file shows the 10-class training pipeline and saving the trained model as `vgg_backbone_10_classes_50epochs.hdf5`. 
 
 ## Results
 
@@ -66,7 +66,7 @@ The presentation shows the model results visually using:
 - the ground truth mask
 - the predicted mask
 
-This side-by-side comparison demonstrates that the model is able to learn meaningful food-region boundaries and separate food items from the background. The prediction examples in the presentation are labeled as **Image**, **Ground Truth Mask**, and **Predicted Mask**. :contentReference[oaicite:6]{index=6}
+This side-by-side comparison demonstrates that the model is able to learn meaningful food-region boundaries and separate food items from the background. The prediction examples in the presentation are labeled as **Image**, **Ground Truth Mask**, and **Predicted Mask**.
 
 For the **10-class model**, the training screenshot from the presentation shows the final results at the end of training were approximately:
 
